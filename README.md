@@ -1,0 +1,1 @@
+Este es un proyecto de practica para usar los principios CRUD con django
